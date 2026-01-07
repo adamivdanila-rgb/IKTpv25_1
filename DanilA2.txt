@@ -1,0 +1,17 @@
+1. Kirjuta oma nimi:Danil
+2. Nimeta peast vähemalt 5 Exceli funktsiooni:
+=MIN
+=MAX
+=SUM
+=LEFT
+=AVERAGE
+3. Kirjuta tänane kuupäev:
+07.01.26
+4. Lahtris B1 on kirjas 100. Lahtris B2 = 200.
+ Lahtrisse B10 on kirjutatud järgmine valem: =Average(B1:B2)/5
+ Mis tulemus sa saad? 
+30
+5. Lahtris B1 on väärtus 100 ja lahtris B2 väärtus 200.
+Lahtrisse B5 on kirjutatud järgmine valem: =SUM(B1:B2)/2
+Mis tulemus saad?
+150
